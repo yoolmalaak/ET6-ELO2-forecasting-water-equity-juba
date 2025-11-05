@@ -92,7 +92,7 @@
   //-------- Files configuration --------
 
   // When enabled, will trim all new lines after the final new line at the end of the file when saving it.
-  "files.trimFinalNewlines": true,
+  "files.trimFinalNewlines": false,
 
   // When enabled, insert a new final line at the end of the file when saving it.
   "files.insertFinalNewline": true,
@@ -116,5 +116,8 @@
   "markdownlint.configPath": ".markdownlint.yml",
 
   // Enable/disable update table of contents on save
-  "markdown.extension.toc.updateOnSave": false
+  "markdown.extension.toc.updateOnSave": false,
+  "json.schemas": [
+
+  ]
 }
