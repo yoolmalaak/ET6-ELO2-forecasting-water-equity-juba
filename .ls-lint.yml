@@ -16,10 +16,10 @@ ignore:
   - .pytest_cache
   - __pycache__
 
-    # Ignore generated model + prediction files
-  - "4_data_analysis/model_random_forest.joblib"
-  - "4_data_analysis/models/pipeline_random_forest.joblib"
-  - "4_data_analysis/notebook2_outputs/pipeline_final_rf.joblib"
-  - "4_data_analysis/pipeline_regression_rf.joblib"
-  - "4_data_analysis/predictions/feature_importances_rf.csv"
-  - "4_data_analysis/predictions/predictions_rf.csv"
+  # Ignore generated model + prediction files
+  - 4_data_analysis/model_random_forest.joblib
+  - 4_data_analysis/models/pipeline_random_forest.joblib
+  - 4_data_analysis/notebook2_outputs/pipeline_final_rf.joblib
+  - 4_data_analysis/pipeline_regression_rf.joblib
+  - 4_data_analysis/predictions/feature_importances_rf.csv
+  - 4_data_analysis/predictions/predictions_rf.csv
