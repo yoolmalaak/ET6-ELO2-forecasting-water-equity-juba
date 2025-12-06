@@ -1,0 +1,601 @@
+feature,importance
+cat__shortage_reason_list_['Water is life regardless of the cost'],0.09333333331679966
+cat__age_group_60+,0.0866666666504704
+cat__primary_income_Retired ,0.08333333332000656
+cat__community_water_suggestions_Is high time for JICA water network to reach each household. It will reduce cost and reliable in terms of hygiene ,0.08333333331604388
+cat__additional_information_Fourteen years of independence is an ample time to have connected each and every household to clean potable water,0.07666666665222394
+cat__distance_to_water_source_About 2.5 km,0.07333333331920033
+cat__shortage_reason_Water is life regardless of the cost,0.06999999998840538
+cat__community_water_challenges_Water by tankers are costly and doubted level of hygiene ,0.053333333323250104
+num__household_size,0.03671145310155522
+cat__community_water_suggestions_Installation of pipeline to each every individual home ,0.03660788172664042
+cat__additional_information_Reduction of water cost for every individual to afford it ,0.027137283747506267
+cat__health_sanitation_difficulty_numeric_1,0.024166474457652836
+cat__community_water_challenges_High cost of water ,0.02366437968333144
+cat__additional_information_We actually need clean water for our health ,0.016141574808225357
+cat__health_sanitation_difficulty_Neutral,0.01592040147613
+cat__community_water_suggestions_Provision of water pipes and water treatments,0.014812247550550186
+cat__community_water_suggestions_Hygiene should be prioritized by the water distributor.,0.013547623604992945
+cat__community_water_challenges_Limited resources for transportation ,0.012649587549007878
+cat__additional_information_Water access in my area is a little bit good thought water tanks don't usually come due to poor infrastructures hence we also preserve rain water and treat them for use and that aids access without infections. ,0.012517797578158147
+num__distance_to_water_source_numeric,0.010227789970017507
+cat__community_water_challenges_High cost and limited availability,0.01000973362798583
+cat__community_water_challenges_Water shortages ,0.009124468484581974
+cat__community_water_suggestions_Reducing the prices and improving infrastructures in order to ease the movement of the water tanks and the people hence the cost won't be too high. ,0.009081463073561332
+num__school_handwashing_frequency_numeric,0.007728769097374656
+cat__additional_information_At least people should have their own personal hygiene and good care of water shelters.,0.006253282435421157
+cat__school_water_challenges_Water is far from classrooms,0.0040472404848477484
+cat__household_head_education_Primary school,0.004027763619955529
+cat__school_handwashing_frequency_never,0.003845136331634763
+num__shortage.1,0.0038153271197280026
+num__shortage,0.00361192172732478
+cat__additional_information_Thanks you,0.003093976811126706
+cat__health_daily_patients_More than 200,0.003027791269490401
+num__school_monthly_water_cost,0.002778493059401755
+cat__community_water_suggestions_Connecting water through pipes around Juba ,0.002754935807894095
+cat__additional_information_Thank you ,0.0026391074111848383
+cat__additional_information_I have no much rather than the information above ,0.002248002139965625
+cat__community_water_challenges_Water ,0.0022207254804446214
+cat__community_water_challenges_Shortages ,0.002060773820418837
+cat__age_group_18-24,0.0019287588580425244
+cat__health_handwashing_impact_Always affected,0.0017367519811534757
+"cat__shortage_reason_High cost of water, Limited daily supply, Poor water quality, Seasonal scarcity",0.0016682844449751007
+cat__community_water_challenges_Too expensive ,0.0016512895058434993
+"cat__shortage_reason_list_['High cost of water', 'Limited daily supply', 'Poor water quality', 'Seasonal scarcity']",0.0016335960614544634
+num__school_hours_water_available_numeric,0.0015131863533179787
+"cat__health_services_affected_Patient hygiene (washing, bathing)",0.0014586669078939748
+num__infrastructure.1,0.0014538252338993608
+num__infrastructure,0.0011141004728184092
+cat__main_drinking_water_Water Tank,0.000942538779284842
+cat__community_water_suggestions_Pipes water should be constructed ,0.0009204141519393436
+cat__role_in_household_Relative,0.0009159123575252344
+cat__school_has_handwashing_facilities_none,0.0009157614829162149
+num__household_shortage_frequency,0.0008780892673896656
+num__health_handwashing_impact_numeric,0.000851625678859201
+cat__additional_information_Ministry of water distribution systems should have to take into consideration the issues of water in the country ,0.0008408356097259109
+cat__role_in_household_Head of household,0.0008238018952927893
+cat__health_sanitation_difficulty_Strongly agree,0.0007960433407893721
+num__litres_per_person_per_day_num,0.000779433166013359
+cat__community_water_suggestions_More tanks ,0.0007657716398320046
+num__health_shortage_frequency_numeric,0.0007642130570360402
+"cat__school_water_challenges_Long queues, Poor water quality, Limited storage facilities",0.0007572872891576181
+"cat__school_water_challenges_Long queues, Water is expensive, Water is far from classrooms, Poor water quality, Limited storage facilities",0.0007008830068039638
+num__household_shortage_frequency_num,0.0006874646861557959
+cat__bathing_frequency_Twice per day,0.0006142590830948674
+"cat__community_water_challenges_Shortage of water for drinking 
+Poor management of water access 
+Number of people who need clean water",0.0006039780615618088
+"cat__shortage_reason_list_['High cost of water', 'Limited daily supply']",0.000602245759572838
+cat__community_water_challenges_Long distance ,0.0005866611095000786
+num__high_cost.1,0.0005747317522527068
+cat__community_water_challenges_distance as the main one and poor hygien. ,0.0005674472089550516
+cat__community_water_suggestions_Pipeline systems installation in the country ,0.0005566683225028574
+cat__community_water_challenges_Long distances and economic crisis ,0.0005348903330395299
+cat__community_water_suggestions_connecting drinking water to the residential areas and lower the prices.,0.0005318084239422695
+cat__age_group_25-34,0.0005272267831147393
+cat__role_in_household_Child,0.0005258889908314617
+cat__gender_Male,0.00048219151087891933
+cat__health_daily_patients_50-100,0.00047697665564817767
+cat__health_sanitation_difficulty_numeric_3,0.0004377536116898979
+num__household_shortage_seriousness,0.00043142394320372943
+cat__additional_information_There is a need for availability of water access in Juba,0.0004016834391799385
+cat__school_drinking_frequency_Rarely,0.0003940378480072299
+cat__community_water_suggestions_Is there any improvement for water supply in Juba? ,0.0003870357777514086
+cat__health_sanitation_management_Cleaning reduced/irregular,0.0003833910168329562
+cat__school_hours_water_available_6-12 hours,0.0003558017023898714
+cat__litres_per_person_per_day_30 - 70,0.00033038300664381523
+cat__school_staff_population_50-100,0.0003271508519315075
+cat__health_services_affected_Maternity services,0.0003213651595121385
+cat__health_sanitation_difficulty_numeric_not applicable,0.0003206272898347702
+cat__litres_per_person_per_day_71 - 100,0.0003184400378099169
+cat__school_has_handwashing_facilities_0,0.00030876836875535796
+cat__bathing_frequency_Three or more times per day,0.000297696351977663
+cat__school_staff_population_More than 200,0.00028112668409375834
+num__quality.1,0.00027805279869612935
+cat__school_handwashing_frequency_2-3 times,0.0002663437653788523
+"cat__health_services_affected_Surgery & operations, Maternity services, Patient hygiene (washing, bathing), Laboratory services, Cleaning & sanitation",0.00025788217705468517
+cat__primary_income_Salaried job,0.0002473550024177067
+num__health_monthly_water_cost,0.0002457041346399105
+cat__school_type_University/College,0.00024174532625769
+num__additional_shortage,0.0002410884554032403
+cat__school_water_source_Water tank,0.00022926904074273012
+cat__health_shortage_coping_Store water in tanks/containers,0.00022013171877951704
+num__pipes,0.00021820530218531411
+cat__additional_information_.,0.0002163041054949541
+cat__health_staff_count_20-50,0.00021610683113104285
+cat__health_water_source_Piped water,0.0002148942231487333
+cat__household_head_education_Secondary School,0.00020903782234888983
+num__pipes.1,0.00020705586189821801
+num__school_sleep_without_bathing_frequency_numeric,0.00019793890661052262
+num__high_cost,0.00019714838592479623
+cat__school_type_Not Applicable,0.00018312164584434525
+cat__community_water_suggestions_Government should make the roads safer to get access to water when its rain. ,0.0001822272495088284
+"cat__school_student_population_More than 2,000",0.00017563568390089644
+cat__household_head_education_Tertiary school,0.0001748873928407358
+cat__school_role_Administrator,0.00016440580663475648
+cat__additional_information_Boreholes should be drilled to reduce water shortage ,0.00016433655823216276
+cat__shortage_reason_list_['Long distance to water source'],0.00016397432381259783
+"cat__shortage_reason_list_['High cost of water', 'Limited daily supply', 'Long distance to water source', 'Poor water quality', 'Seasonal scarcity']",0.0001631385133004009
+cat__distance_to_water_source_More than 1km,0.00016118577419486422
+cat__community_water_challenges_Capital ,0.0001582584936809215
+num__additional_shortage.1,0.00015663030617594448
+cat__shortage_reason_Long distance to water source,0.0001489674216616147
+cat__school_ownership_Private,0.0001483273921219982
+cat__school_has_potable_water_clean_1,0.0001443004548563228
+cat__age_group_35-44,0.00014400516055957096
+cat__additional_information_vunerable families are force to drink unclean water due to the high cost. ,0.00014399092232935662
+cat__school_water_challenges_Water is expensive,0.00014375857798619494
+cat__distance_to_water_source_Less than 100m,0.00014058963905076472
+cat__school_ownership_Public,0.0001390012067574632
+cat__school_sleep_without_bathing_frequency_Daily,0.0001372203772019402
+"cat__community_water_challenges_sometimes those tanks dont work when its rain, that make it hard for us to get water.",0.0001269319954536053
+num__education,0.0001267374365671003
+cat__primary_income_Business,0.00012470338356108167
+cat__school_has_potable_water_1,0.00012092002158203371
+num__equitable_access,0.00011920676236613986
+cat__school_water_challenges_Poor water quality,0.00011599983451935023
+num__education.1,0.00011527784727514264
+cat__primary_income_Casual labour,0.00011250720054684714
+cat__community_water_suggestions_Build more storage facilities ,0.0001065154515980539
+cat__distance_to_water_source_500m-1km,9.867592728015441e-05
+cat__school_has_handwashing_facilities_1,9.848075980919103e-05
+cat__school_hours_water_available_Always available,9.724354852813602e-05
+cat__school_equitable_access_Yes,9.302432653173922e-05
+cat__bathing_frequency_Once per day,9.204630110623782e-05
+cat__school_water_source_Piped water,9.152285621062282e-05
+num__additional_infrastructure,9.135614584357899e-05
+cat__health_sanitation_difficulty_numeric_0,9.046345792427155e-05
+cat__school_equitable_access_No,8.862803998847325e-05
+cat__school_water_source_Borehole / Well,8.65370715551576e-05
+"cat__school_water_challenges_Long queues, Water is far from classrooms, Limited storage facilities",8.62956351169938e-05
+num__health_hygiene_problems_numeric,8.569973884874951e-05
+"cat__school_student_population_500-1,000",8.41050757137426e-05
+num__quality,7.725212234761247e-05
+"cat__shortage_reason_list_['Limited daily supply', 'Long distance to water source']",7.625912413426166e-05
+cat__health_shortage_coping_Buy water from vendors,7.371036453675953e-05
+cat__school_sleep_without_bathing_frequency_A few times per week,7.2158453505175e-05
+"cat__shortage_reason_High cost of water, Limited daily supply, Long distance to water source",7.095403190092291e-05
+cat__school_affiliation_No,6.918816185174543e-05
+"cat__health_services_affected_Patient hygiene (washing, bathing), Laboratory services",6.867575940909433e-05
+cat__additional_information_Pipes line ,6.763727093265716e-05
+cat__school_hours_water_available_2-6 hours,6.745868144356613e-05
+"cat__community_water_suggestions_Improvements of roads 
+Introduction of taps to provide water to each house hold.",6.661881760861917e-05
+cat__shortage_reason_list_['High cost of water'],6.569586272171132e-05
+cat__school_role_Teacher,6.551364148693361e-05
+cat__school_staff_population_101-200,6.454557459728791e-05
+num__additional_treatment,6.419061242379392e-05
+cat__school_role_Student,6.380563726208866e-05
+cat__community_water_suggestions_Electronic water ,6.35431077684188e-05
+cat__primary_income_Farming,6.297996390477006e-05
+num__treatment.1,6.291796194828056e-05
+cat__school_drinking_frequency_2-3 times,6.246686993409585e-05
+num__additional_high_cost,6.23841330727011e-05
+cat__school_sleep_without_bathing_Yes,6.200856026746286e-05
+cat__school_drinking_frequency_Once,6.173981205703076e-05
+"cat__shortage_reason_list_['High cost of water', 'Limited daily supply', 'Long distance to water source']",5.96574563232672e-05
+cat__health_water_reliability_Moderately reliable,5.8254656342838336e-05
+cat__school_handwashing_frequency_Rarely,5.8243371758251486e-05
+cat__school_staff_population_Less than 50,5.627439027746951e-05
+cat__school_hours_water_available_More than 12 hours,5.460598847678695e-05
+cat__school_drinking_frequency_More than 3 times,5.359103575502534e-05
+cat__shortage_reason_High cost of water,5.325298638775749e-05
+cat__health_shortage_frequency_Rarely,5.314830208158496e-05
+"cat__shortage_reason_High cost of water, Limited daily supply, Long distance to water source, Poor water quality, Seasonal scarcity",5.286616647535362e-05
+cat__school_type_Secondary,5.2268544955754054e-05
+cat__school_handwashing_frequency_More than 3 times,5.1458520539666866e-05
+num__boreholes,5.024085332428757e-05
+cat__main_drinking_water_Piped water,4.8150685479682997e-05
+cat__community_water_suggestions_I looking  peace should be first and then the water and the other  should be narmol  thank,4.814623277208502e-05
+cat__school_has_potable_water_0,4.806958090439337e-05
+cat__health_handwashing_impact_Rarely affected,4.7998438534835334e-05
+num__access,4.769959757458798e-05
+cat__health_hygiene_problems_slightly,4.692461450867774e-05
+cat__school_handwashing_frequency_Once,4.651502062880697e-05
+cat__litres_per_person_per_day_25 - 30,4.6084025344840025e-05
+cat__school_student_population_Less than 500,4.5475638359278606e-05
+cat__main_drinking_water_Borehole,4.509242371496884e-05
+cat__role_in_household_Tenant,4.399708573247603e-05
+cat__health_facility_typehealth_facility_type_Pharmacy,4.312437107651018e-05
+cat__community_water_suggestions_Setting up water supply systems ,4.09154961326415e-05
+cat__additional_information_No,4.0423905682756645e-05
+cat__school_water_source_Not Applicable,4.0281857952386885e-05
+num__health_toilet_closures_numeric,3.904576706899738e-05
+cat__distance_to_water_source_100-500m,3.87244315775486e-05
+cat__school_water_challenges_Limited storage facilities,3.8671516156494854e-05
+cat__community_water_challenges_It is expensive ,3.861945300497012e-05
+cat__household_head_education_No formal education,3.8080647357671125e-05
+cat__school_hours_water_available_Less than 2 hours,3.7701424503106695e-05
+num__additional_boreholes,3.6838310338734395e-05
+num__additional_treatment.1,3.6627506200815755e-05
+cat__community_water_challenges_High cost ,3.6360597395404796e-05
+cat__community_water_suggestions_Boreholes should be drilled in every area ,3.487888726049712e-05
+cat__community_water_suggestions_reduce the cost and provide tap water,3.3660279442637e-05
+"cat__additional_information_It means people can easily reach and afford safe drinking waterwithout traveling long distances or spending excessive time collecting it.
+",3.256196677520047e-05
+num__health_service_disruptions_numeric,3.222806255046786e-05
+cat__primary_income_To have it today maybe tomorrow No,3.14674360502627e-05
+num__additional_education,3.11599962830686e-05
+cat__distance_to_water_source_Its delivered ,3.077576205450146e-05
+cat__health_toilet_closures_occasionally,3.0482146906106414e-05
+"cat__school_water_challenges_Water is far from classrooms, Poor water quality, Limited storage facilities",3.0348296550400672e-05
+cat__school_type_Primary,3.028290469232757e-05
+cat__school_sleep_without_bathing_No,2.983290916555423e-05
+num__boreholes.1,2.95659457329166e-05
+cat__additional_information_Government should take it as priority ,2.792717690708194e-05
+cat__community_water_suggestions_Government should be leading in that.,2.78302826733659e-05
+num__school_sleep_without_bathing_numeric,2.685726047842777e-05
+cat__school_has_potable_water_2,2.6612423550934314e-05
+num__additional_infrastructure.1,2.5854580436779505e-05
+cat__health_service_disruptions_occasionally,2.557583640935977e-05
+num__treatment,2.544578254445945e-05
+cat__health_facility_typehealth_facility_type_Hospital,2.5423094437569876e-05
+"cat__community_water_challenges_High cost, scarcity of safe water sources ",2.4928795897816073e-05
+cat__shortage_reason_list_['Seasonal scarcity'],2.4747741993411603e-05
+cat__health_staff_count_Less than 20,2.453607482827712e-05
+cat__community_water_suggestions_Water pipes should be connected to homes such that each households get water effectively ,2.4380672440835775e-05
+num__additional_high_cost.1,2.4177909606018015e-05
+cat__school_staff_population_Not Applicable,2.367607987019086e-05
+cat__health_facility_ownership_Private,2.3299853973595907e-05
+cat__additional_information_Nope ,2.2917720500590824e-05
+cat__school_equitable_access_Maybe,2.2823415372563034e-05
+cat__shortage_reason_Road problems during rainy season.,2.2797135094918286e-05
+num__school_has_potable_water_numeric,2.263603480026304e-05
+cat__school_sleep_without_bathing_frequency_A few times per month,2.2180693314044885e-05
+cat__gender_Female,2.1171860881792107e-05
+num__health_water_reliability_numeric,2.1170697400015564e-05
+cat__community_water_suggestions_Laying the pipe to households ,2.116925952478371e-05
+cat__shortage_reason_Poor water quality,2.1158874774441445e-05
+"cat__community_water_challenges_Poor water sanitation, transportation, price and delivery shortage. ",2.1009890931034807e-05
+cat__school_has_potable_water_clean_0,2.0627964488062947e-05
+cat__shortage_reason_Limited daily supply,2.0230216110228516e-05
+"cat__additional_information_I am very happy for this project survey,
+I hope it will improve water accessibility to the community. ",1.9437417421537223e-05
+cat__additional_information_Not really. ,1.9204129286398415e-05
+cat__community_water_challenges_high cost,1.880503054634229e-05
+cat__community_water_challenges_Cost of water and road problems ,1.863795746901758e-05
+cat__community_water_challenges_Lack of affordability ,1.833280912899579e-05
+num__access.1,1.8320988959134502e-05
+cat__shortage_reason_Seasonal scarcity,1.8100072673789132e-05
+num__additional_access.1,1.736672826155383e-05
+cat__main_drinking_water_River/Lake,1.624045672064471e-05
+cat__community_water_suggestions_Connecting water pipeline allover the country ,1.611147318717321e-05
+cat__school_has_potable_water_clean_2,1.5605225279503213e-05
+"cat__school_water_challenges_Water is expensive, Poor water quality, Limited storage facilities",1.4856418384985377e-05
+cat__health_sanitation_difficulty_Strongly disagree,1.470977002499933e-05
+cat__additional_information_Provide it clear water,1.45844028595908e-05
+cat__role_in_household_Spouse,1.455586185826548e-05
+cat__additional_information_Creation of different water stations within juba,1.4130232770288613e-05
+cat__community_water_challenges_High cost of water is very challenging in Juba,1.410687490169596e-05
+cat__shortage_reason_list_['Limited daily supply'],1.3466808743835537e-05
+cat__health_facility_typehealth_facility_type_Health Center,1.3143465695448954e-05
+cat__school_sleep_without_bathing_frequency_Rarely (once in a while),1.313554935324199e-05
+cat__community_water_suggestions_Government should provide pipe in the city to ease shortages of water.,1.3117454581160762e-05
+cat__health_service_disruptions_Rarely,1.273270599579733e-05
+cat__additional_information_roads should be constructed ,1.2000762508270209e-05
+num__additional_education.1,1.1987253929535623e-05
+cat__community_water_suggestions_Open more water point in next 100metres maybe reduce the high cost of water in Juba,1.1850936061281232e-05
+"cat__community_water_suggestions_Water distribution, improving treatment methods and water sanitation. ",1.178184366043983e-05
+cat__litres_per_person_per_day_more than 120,1.1470534053563244e-05
+cat__community_water_suggestions_Improve hygiene at the river side when fetching water ,1.145433533900111e-05
+"cat__shortage_reason_list_['High cost of water', 'Long distance to water source', 'Poor water quality']",1.1355046038233978e-05
+"cat__community_water_suggestions_As a South Sudanese who is concerned about the well-being of our communities, I believe improving access to safe drinking water in Juba requires a collective and sustainable approach. First, we must invest in water purification system and protect existing water sources from contamination. The government in partnership with NGOs and international donars, should prioritize building and maintaining clean water infrastructure such as boreholes, protected well, and treatment facilities. Community education hygiene and safe water storage is also vital. Lastly, empowering local water committees to manage resources transparently will ensure long-term impact and ownership. Access to clean water is not a luxury its a right.  ",1.134771867324735e-05
+cat__health_shortage_frequency_A few times per week,1.133812187487247e-05
+cat__additional_information_Water is life and clean drinking water means good health to the people and the aquatic animals. ,1.1256220363625573e-05
+cat__health_sanitation_difficulty_Not Applicable,1.124831395032319e-05
+cat__school_water_challenges_Long queues,1.1154575980169232e-05
+cat__health_facility_ownership_Public/Government,1.1144743393201056e-05
+"cat__shortage_reason_list_['High cost of water', 'Limited daily supply', 'Poor water quality']",1.1086911892388272e-05
+cat__health_affiliation_No,1.0774461582507704e-05
+"cat__shortage_reason_list_['High cost of water', 'Limited daily supply', 'Seasonal scarcity']",1.0479110254285627e-05
+"cat__community_water_challenges_Lots of challenges are facing us, ranging from frequently falling ill from lack of proper sanitation services to major ones like closure of community facilities such as schools, reduced service in health facilities.
+More often food production and consumption reduces too.
+",1.0051696700939818e-05
+cat__additional_information_Establishing urban water body that will be in charge of water management ,1.0031626190922763e-05
+"cat__school_water_challenges_Long queues, Water is far from classrooms, Poor water quality, Limited storage facilities",9.800657844877043e-06
+num__additional_pipes,9.705838947560815e-06
+cat__community_water_suggestions_Making drinking water available to everyone ,9.64880232514989e-06
+"cat__community_water_suggestions_As a South Sudanese who is concerned about the well-being of our communities. I suggest access to safe drinking water in Juba. Is expanding and upgrading water infrastructure,  specially in undeserved area. Increase investment in boreholes, water treatment plants, and rainwater harvesting system. Promote community education on water safety and hygiene. Strengthen government and NGOs partnership to ensure consistent funding and sustainable management of water resources. ",9.628338432063205e-06
+"cat__shortage_reason_High cost of water, Limited daily supply, Poor water quality",9.282608883986005e-06
+"cat__school_water_challenges_Water is expensive, Water is far from classrooms, Limited storage facilities",9.086711413791925e-06
+cat__shortage_reason_list_['Poor water quality'],9.027034330918764e-06
+cat__health_water_reliability_Unreliable,8.99921720380511e-06
+cat__community_water_suggestions_Allocations of pipe water every household ,8.871564520274528e-06
+"cat__community_water_suggestions_My suggestion is that, the government or non_governmental organisation should initiates the plan to connect the pipeline water to the entire juba ",8.867319718272702e-06
+cat__community_water_challenges_Distance and low quality of drinking water.,8.856016451476359e-06
+cat__shortage_reason_list_['Road problems during rainy season.'],8.751136419958691e-06
+"cat__community_water_challenges_None of home activities can be carried out like accessibility to Toilet, washing of Clothes and many others that needs water besides drinking. ",8.357004058601748e-06
+cat__health_toilet_closures_frequently,7.972225230357992e-06
+cat__community_water_suggestions_By installing the water pipes everywhere ,7.857220309829746e-06
+cat__community_water_suggestions_Employment and setting up of centres for production of clean water,7.810863175955176e-06
+cat__community_water_challenges_Poor water quality ,7.808192426200386e-06
+cat__additional_information_The Nile Is Polluted.,7.561273818240762e-06
+cat__community_water_challenges_High cost of purchasing water ,7.457333236175318e-06
+cat__community_water_suggestions_Government should subsides the cost,7.105635147845995e-06
+"cat__school_water_challenges_Water is expensive, Poor water quality",7.088615672010817e-06
+cat__health_service_disruptions_frequently,6.755145747875511e-06
+cat__additional_information_South Sudan needs a lot help for ,6.602397271290883e-06
+cat__community_water_suggestions_Provisions of more borehole ,6.5145602416352674e-06
+cat__community_water_challenges_No,6.487484578739802e-06
+cat__community_water_challenges_Long distances and poor water quality.,6.347044807868473e-06
+cat__additional_information_The invention of government ,6.276112079076177e-06
+cat__health_water_source_Water tanker/truck,6.238234301105284e-06
+"cat__school_student_population_1,001-2,000",6.237609099858746e-06
+"cat__shortage_reason_High cost of water, Limited daily supply, Seasonal scarcity",6.219226385175953e-06
+cat__community_water_challenges_Ok like me i am staying  POC3 for us to get water it's  very big problems  it you have money  you can if you don't have you will be like that,6.176627883359251e-06
+cat__health_staff_count_More than 100,6.175615935128781e-06
+cat__additional_information_Poor roads affect the movement of water tanks ,5.99962186520317e-06
+cat__bathing_frequency_Not every day / irregular,5.718620321831254e-06
+cat__school_hours_water_available_Not Applicable,5.709466953442218e-06
+cat__health_sanitation_difficulty_numeric_2,5.702457495611764e-06
+cat__additional_information_Water is life and the government should help citizens to access clean water.,5.702035540868736e-06
+cat__school_affiliation_Yes,5.394556495848347e-06
+cat__community_water_challenges_.,5.339403411932532e-06
+"cat__community_water_suggestions_Treated water tap systems to compound will be better compared to traditional track and community taps, this will help to improve water quality by eliminating contamination and also reduce water cost while eliminating rampant accident cause by tank track drivers.",5.302620566794877e-06
+cat__health_daily_patients_Less than 50,5.202034572486246e-06
+num__additional_quality,5.115948527449252e-06
+cat__additional_information_It is good to address the issues of water so that it can reduce high risk of water borne diseases ,4.959130797147178e-06
+cat__community_water_suggestions_Promotion of water hygiene on the tap or Barhole,4.927594704651296e-06
+cat__community_water_suggestions_Drill numerous boreholes ,4.903318687733326e-06
+cat__distance_to_water_source_We use water tank ,4.8531898965481575e-06
+cat__additional_information_Household level chlorination of drinking water.,4.7728981862370986e-06
+cat__additional_information_Not Provided,4.642865743740497e-06
+"cat__community_water_challenges_High cost of water 
+Distance to water sources 
+Absence of no enough water facilities ",4.639173488679985e-06
+cat__health_sanitation_difficulty_Agree,4.365773028088853e-06
+cat__community_water_suggestions_Building a Pipelines from the Nile to connect all the houses in Juba,4.228865346671741e-06
+"cat__school_water_challenges_Long queues, Water is far from classrooms, Poor water quality",4.222899868114543e-06
+num__additional_pipes.1,4.202599676306282e-06
+cat__additional_information_Yes ,4.183504599182207e-06
+"cat__shortage_reason_High cost of water, Long distance to water source, Poor water quality",3.9717584770918555e-06
+cat__community_water_challenges_Long distances,3.9319972503268384e-06
+cat__age_group_45-54,3.775427070238386e-06
+cat__community_water_challenges_Over crowding ,3.761088430046723e-06
+num__additional_quality.1,3.7243173413004186e-06
+"cat__school_water_challenges_Long queues, Water is expensive, Water is far from classrooms",3.721016422316513e-06
+cat__additional_information_Water treatment should be high encouraged ,3.705912858703093e-06
+"cat__community_water_challenges_Lack of adequate plumbing and water supply system can hinder access. 
+Economic factor, high cost associated with water supply. 
+In rural or isolated areas,water sources may be far away from homes.
+",3.5619767606357985e-06
+"cat__community_water_challenges_Suri-Kachipo tribe still depending on streams and rivers water as no schools, no hospitals and no clean water ",3.3270881856447603e-06
+cat__community_water_suggestions_Add more pipes to provide safe water use ,3.2616229707038754e-06
+"cat__shortage_reason_High cost of water, Limited daily supply",3.232751609764044e-06
+cat__role_in_household_Sister ,3.08976670024809e-06
+cat__community_water_suggestions_Installation of pipe and make water accessible ,3.0632168577830784e-06
+cat__community_water_suggestions_Pipe ,3.031816223461788e-06
+cat__community_water_challenges_Yes,3.004802888754119e-06
+cat__litres_per_person_per_day_101 -120,2.9552260594980375e-06
+cat__community_water_suggestions_Government should provide clean pipes water to every family ,2.7541779900585908e-06
+"cat__additional_information_Improvement of water treatment.
+",2.749535515483111e-06
+"cat__community_water_suggestions_Government has to invest in clean drinking water by connecting pipes under the ground to supply houses at least in the City, Juba.",2.7463976152924504e-06
+cat__additional_information_ Purification is poorly done,2.717411602355819e-06
+cat__additional_information_Water which are normally buy from water tankers are usually not clean and we hope forward to getting clean water some days ,2.7031459181997684e-06
+cat__community_water_challenges_Shortage of supply on weekends ,2.6478660991454335e-06
+cat__community_water_challenges_High cost of clean water ,2.5986264943996684e-06
+cat__distance_to_water_source_3 km,2.5672484089726136e-06
+cat__additional_information_Availability of unclean water for daily use.,2.47563988290781e-06
+cat__community_water_suggestions_Constructing tap ,2.475148233413953e-06
+cat__community_water_suggestions_Setting up portable clean water ,2.448105017997086e-06
+"cat__shortage_reason_High cost of water, Limited daily supply, Long distance to water source, Seasonal scarcity",2.425511610643598e-06
+cat__health_shortage_frequency_A few times per month,2.4175304713044294e-06
+cat__community_water_challenges_Poor infrastructures especially during the rainy season,2.193085507208481e-06
+"cat__additional_information_Water is of poor quality. Meaning, some water tank drivers just go and fetch Nile water and sell it direct without being treated. This causes sickness.",2.183806090627751e-06
+"cat__shortage_reason_list_['High cost of water', 'Limited daily supply', 'Long distance to water source', 'Poor water quality']",2.144029115716428e-06
+cat__school_has_potable_water_not applicable,2.128392054638488e-06
+cat__school_has_potable_water_clean_not applicable,2.1178240476542503e-06
+cat__school_water_source_Buying bottle water ,2.069195716895954e-06
+cat__community_water_suggestions_Lower costs so that people can have safe water,2.0250358277710098e-06
+"cat__additional_information_In some parts of Juba; particularly sherikat where I reside and some other parts that I have never been, people still depend on the Nile River for daily water use, which exposes them to unsafe water sources. Efforts to improve water infrastructure should also focus on educating the community about safe storage and treatment methods at home. With the right investment and community involvement, it is possible to make safe drinking water accessible and affordable for everyone in Juba.
+",2.0237582534496484e-06
+cat__health_hygiene_problems_significantly,2.0167200132155764e-06
+"cat__additional_information_Yes. In Mewun,Suri-Kachipo, access to safe drinking water is still very limited. Most people depend on rivers, streams, or hand-dug wells, which are often not protected from contamination. During the dry season, these water sources sometimes dry up, forcing families especially women and children to walk long distances in search of water.
+
+The water available is usually not treated, and people drink it directly, which causes diseases such as diarrhea, typhoid, and cholera. There are no regular water testing services or treatment facilities in the area.
+During the rainy season, flooding and open defecation around water points make the situation worse, as runoff contaminates the water sources. People also lack proper containers for water storage and purification methods like chlorine or filters.
+
+Despite these challenges, the community is very willing to participate in improving water access if given training and tools. With support for borehole repairs, rainwater harvesting, and hygiene education, safe water access in Mewun could greatly improve.
+",1.959639451661166e-06
+cat__community_water_challenges_High costs ,1.8892531080978277e-06
+cat__additional_information_The quality of water treatment should be examined because a times there is too much chlorine in water ,1.88472125010009e-06
+cat__additional_information_Sure,1.8111514919351521e-06
+cat__additional_information_No full supply of water,1.8099025638520638e-06
+cat__community_water_challenges_Dirty water which is mostly provided by the water tanks,1.8034748855700301e-06
+"cat__community_water_suggestions_To improve access in Juba, the government and NGOs should repair broken systems, build more boreholes, and provide affordable clean water.",1.7327371018861264e-06
+cat__primary_income_Private sector ,1.694589304648379e-06
+cat__community_water_suggestions_.,1.6887484359449138e-06
+cat__school_student_population_Not Applicable,1.6807290095781929e-06
+cat__additional_information_Actually I can suggest water sanitation to be improve by government through the campaigns and awareness in the communities such that people should live freely from water borne diseases.,1.657648516655923e-06
+cat__community_water_suggestions_Government should need to extend the water sources to unreached areas to support those who can't make it to get water from long distance like from riverside.,1.579073981475601e-06
+cat__community_water_suggestions_My own suggestion would be building of more taps ,1.5710514368678982e-06
+"cat__community_water_suggestions_Legal bodies concerned with water should ensure pipe water reaches every residential area as well as regulating prices.
+Roads should be maintained in good conditions to make easy access for water trucks.
+",1.5661546771836276e-06
+cat__community_water_suggestions_Water need to be treated and piped to homes to avoid tanks stuck during rainy season and reduce cost for water,1.5144012256513198e-06
+"cat__community_water_suggestions_Water facilities such as pipes should be many in the area and linked to the water
+
+Water should be well treated to avoid disease infections
+
+Enough pipes Water in the area will reduce the prices of water bought from water tanks",1.4885053169135287e-06
+cat__community_water_suggestions_Provide of quality and equitable water for all. ,1.4706536494109984e-06
+cat__additional_information_To avoid a lot of diseases a lot has to be done to provide clean water access.,1.324144626290864e-06
+cat__additional_information_Yes i like in my to have agood wash sanitation & Hygine thank,1.3041666548663587e-06
+num__more_taps.1,1.302081413696208e-06
+cat__community_water_suggestions_Connecting piped water to ever household with low cost ,1.2802343965904638e-06
+cat__school_role_Not Applicable,1.2662083995017098e-06
+"cat__health_services_affected_Patient hygiene (washing, bathing), Cleaning & sanitation",1.2574130111183708e-06
+"cat__school_water_challenges_Water is expensive, Limited storage facilities",1.198681310077992e-06
+cat__community_water_suggestions_It's strong encourage the government of south Sudan especially in juba city to prioritize the water pipeline to every households.,1.197517958281691e-06
+cat__additional_information_Government should make sure water provided for the people is safe and treated from other diseases ,1.1873971538837247e-06
+cat__health_water_reliability_Very reliable,1.186610496247578e-06
+cat__school_ownership_Not Applicable,1.147324632744293e-06
+cat__community_water_challenges_High cost of water,1.1383054715216986e-06
+cat__health_shortage_frequency_Daily,1.0880682033154424e-06
+cat__community_water_suggestions_Development of water sources.,1.085022727867061e-06
+cat__community_water_suggestions_Am suggesting that the  water pipe connection  can be put into place for easy assessibility of water by everyone in juba and it treatments ,1.0804317412503835e-06
+"cat__health_sanitation_management_Alternative water sources used (tankers, boreholes, wells)",1.0631800902984267e-06
+num__additional_boreholes.1,1.0573054021645395e-06
+cat__health_toilet_closures_No,1.0327496967012136e-06
+cat__community_water_suggestions_Building of water pipe and treat water before supply ,9.194015418644533e-07
+cat__community_water_suggestions_More water supply reservoirs should be constructed and more pipes to be constructed ,9.162865186208373e-07
+cat__community_water_challenges_lack of good water treatment plant,8.944687424264589e-07
+cat__community_water_suggestions_More tapes to be provided and proper treatment of water ,8.596429001606909e-07
+cat__community_water_suggestions_Lowering cost,8.264479274054787e-07
+cat__health_sanitation_management_Toilets remain unclean,7.91088226436108e-07
+"cat__community_water_challenges_Lack of  clean treated water
+Expensive bottle water
+Unsafe containers ",7.108775292353264e-07
+"cat__community_water_challenges_Well, the quality of water and high cost are major concerns in my community.",6.834735505372723e-07
+cat__school_ownership_NGO-supported,6.203632416365924e-07
+cat__community_water_challenges_Bad roads ,5.441685992859322e-07
+cat__community_water_challenges_Very serious challenges because of Roads access. ,5.319294011903197e-07
+"cat__community_water_challenges_Water shortage,poor quality ",4.876819537556121e-07
+cat__additional_information_Waste some time deposited in to hear by water body ,4.600215555584617e-07
+"cat__shortage_reason_High cost of water, Limited daily supply, Long distance to water source, Poor water quality",4.468995085946955e-07
+cat__community_water_suggestions_To buy at cheap price ,4.3656199515020586e-07
+"cat__community_water_suggestions_Borehole construction, Gov't should invest in drilling Boreholes.
+Establish water treatment plants that can purify water surface sources,make them safe for consumption. 
+Rainwater harvesting, for instance Gov't promote the construction of rainwater harvesting systems in homes, schools and top of mountains.
+",4.334708373873906e-07
+cat__community_water_challenges_High cost,4.248279755123843e-07
+num__additional_access,4.0940445209190546e-07
+"cat__additional_information_Water access is certainly is a major issue in Juba as a whole, not even mentioning the quality of water accessible to just an average citizen who works a civil servant job ",4.08274660341422e-07
+"cat__community_water_challenges_Financial problem especially due to economic Crisis in the country, and long distance to access the safe water ",3.928686895261069e-07
+"cat__shortage_reason_list_['High cost of water', 'Seasonal scarcity']",3.7119539313880954e-07
+"cat__community_water_challenges_In my community, safe drinking water is hard to get because of old pipes, contamination, and long distances to water points. Sometimes, water is too expensive or unavailable.",3.7079346203243994e-07
+cat__additional_information_The water from watertanks isn't safe for drinking,3.583012774441604e-07
+cat__distance_to_water_source_Not far ,3.562189006784702e-07
+"cat__community_water_suggestions_To educate our population on the important of consuming clean water and making sure quantity matters over quality and where is possible to improve quality too,by prioritizing market based sanitation services.
+Also to make sure the national government come up with policies that improve water services to all households and sanitation services beyond home such as schools and hospitals.
+To educate all stakeholders in particular families to boil their water in case they could not afford water treatment items.",3.45205616559492e-07
+"cat__community_water_suggestions_By providing  clean water , and also pipe water to reduce long distance.",3.3317412660382924e-07
+"cat__community_water_challenges_It's unhealthy environment 
+It's absence of sanitation schedule 
+",3.1918274248562424e-07
+cat__community_water_suggestions_Filtering and monitoring a contaminated water system ,2.943034707316645e-07
+cat__community_water_suggestions_Introducing pipeline water,2.831915968268141e-07
+"cat__additional_information_Yeah, because our water resources are always with us but utilisation is only problem ",2.7115161016318164e-07
+"cat__additional_information_Another problem that I may share is the cleanliness of that costly water in Juba, you may assume that the water is clean but after you finish the full container, you see some dirtiness on the container and if you dont clean it frequently your family my fall sick of water borne diseases.",2.552806603767299e-07
+cat__community_water_suggestions_Treated piped water should be available to all households ,2.511392350816001e-07
+cat__community_water_challenges_Unsafe drinking water ,2.390402254291592e-07
+cat__community_water_suggestions_Construction of safe water supply ,2.2781784494002417e-07
+cat__community_water_challenges_Costly,2.070113207927112e-07
+"cat__school_water_challenges_Long queues, Water is expensive, Poor water quality",1.9927176416023103e-07
+cat__health_facility_typehealth_facility_type_Veterinarian ( Animals health worker),1.9924694877560963e-07
+cat__community_water_challenges_I face assesibilit very too much ,1.9521600187051823e-07
+cat__community_water_challenges_Water is expensive and it sometimes can't be free from contaminations. ,1.9287066797350573e-07
+cat__additional_information_The prices of safe water are high compared to salty borehole water.,1.8388046790253979e-07
+cat__community_water_challenges_Absence of chlorine that can be use to keep the water clean ,1.7525593292493227e-07
+"cat__community_water_challenges_Longtime distances to water points.
+Poor storage facilities ",1.4385130877153654e-07
+cat__additional_information_Every citizen is having rights to access Portable water ,1.388716425039287e-07
+cat__community_water_challenges_Poor road for water tank to reach our location made water expensive in our area ,1.367750838121755e-07
+cat__community_water_suggestions_Setting water pipelines all over Juba such that clean drinking water is accessible to all,1.224615089622695e-07
+"cat__community_water_challenges_It is costly 
+Difficult to access 
+
+",1.14680083046994e-07
+cat__community_water_challenges_Lack of money ,1.1017623986288987e-07
+cat__additional_information_Water safety measures should be addressed to everyone in juba  so that they can be free from any diseases  that can be transmitted with dirty water ,1.0458865976770801e-07
+"cat__community_water_challenges_In my community, one of the biggest challenges is the limited availability of clean and safe drinking water. Many households rely on water delivered by trucks or collected from boreholes, which are often far away and sometimes contaminated. During the dry season, water becomes scarce, and prices rise, making it difficult for low-income families to afford. In some areas, water storage tanks are not properly maintained, leading to health risks such as waterborne diseases.",1.0311882317649998e-07
+cat__community_water_suggestions_Government should provide more water facilities in distinct areas of Juba,9.829432494510371e-08
+cat__health_affiliation_Yes,9.308522864292905e-08
+cat__school_ownership_Community-based,6.775120051822079e-08
+cat__additional_information_Nothing ,6.249876125125791e-08
+"cat__community_water_challenges_The main challenges are the high cost of water and unreliable supply. Sometimes water trucks delay or bring water that is not clean. Many households depend on vendors, and not everyone can afford to buy enough water every week.
+",5.8192450550437684e-08
+"cat__community_water_suggestions_To improve access, the government and NGOs could invest in expanding the piped water network to reach more neighborhoods. Regular water quality testing and public awareness campaigns about water hygiene would also help prevent disease. Installing more community boreholes and providing affordable water purification systems, such as filters or chlorine tablets, could make a big difference. Additionally, better regulation of private water suppliers would ensure the water sold to the public meets safety standards.",5.313758881992489e-08
+cat__health_daily_patients_101-200,5.202896718184364e-08
+cat__community_water_suggestions_Piped water in households,5.0074942689633326e-08
+"cat__community_water_challenges_High Cost of safe water
+Limited supply per day",4.7331612811071666e-08
+cat__community_water_challenges_Expensive cost of water and the fact that water is being sold by foreigners is the main challenge facing my community particularly in Juba. Foreigners may decide to go on a holidaytwo or three days. This leads to water shortages across the city.,4.6044437136437634e-08
+cat__primary_income_Remittances,4.5239030702762446e-08
+cat__additional_information_Water contamination needs to be addressed.,4.4080971781063715e-08
+cat__community_water_challenges_The cost of buying is high,3.583381213503957e-08
+cat__community_water_challenges_Scarcity of clean water,3.495097936309096e-08
+"cat__additional_information_Incase piped water is introduced, the price should be affordable to all families.",3.477690167846477e-08
+cat__community_water_challenges_Far distance ,3.0659532114192265e-08
+"cat__community_water_suggestions_The government and NGOs should expand piped water systems, drill more boreholes, and ensure regular monitoring of water quality. Reducing the cost of water and improving storage facilities would also help many families and schools get safe and steady water supply.",2.9621118224850563e-08
+cat__community_water_challenges_No money ,2.3558721738607227e-08
+cat__health_handwashing_impact_Sometimes affected,1.681286156570753e-08
+"cat__additional_information_Some families still rely on river water, which is unsafe. More awareness on water purification and hygiene could help reduce waterborne diseases.",1.568288195705495e-08
+cat__community_water_challenges_Poor quality of water ,1.5415801146593315e-08
+"cat__school_water_challenges_Long queues, Water is expensive, Poor water quality, Limited storage facilities",1.5181216211945396e-08
+"cat__additional_information_During the dry season, water becomes very scarce, and many people use untreated sources. Some areas have water that tastes salty or has a bad smell. Community awareness about water treatment and hygiene could help prevent diseases.
+",9.666890557674685e-09
+cat__additional_information_Connection of pipelines will not only help people from rocky areas where wall and boreholes are hard to construct but would solve the problem of water tanks' accident.. ,7.538558057423391e-09
+cat__community_water_suggestions_There should be a government control water storage facility with Pipelines connected to all the local residents and other public facilities. ,7.454722450715339e-09
+"cat__community_water_suggestions_Improve water treatment 
+Regulations and pricing policies on water Tanks 
+Monitoring water quality 
+Funding and sustainability in remote areas ",6.450087541749573e-09
+cat__additional_information_There is a need for installation of water pipelines to all households. ,4.790697399206493e-09
+cat__health_services_affected_Cleaning & sanitation,3.253500471270857e-09
+"cat__school_water_challenges_Water is far from classrooms, Poor water quality",3.189584451877188e-09
+"cat__shortage_reason_list_['High cost of water', 'Limited daily supply', 'Long distance to water source', 'Seasonal scarcity']",2.8389355036294277e-09
+cat__school_water_challenges_There was no challenge because what is available always. ,2.7343647339523478e-09
+cat__community_water_suggestions_Underground water channel ,5.438516634476681e-10
+cat__primary_income_Hustling ,1.213302881788164e-10
+cat__community_water_challenges_Poor quality ,5.39104212138348e-13
+cat__community_water_suggestions_Extension of piped water to far areas.,1.2800491341188326e-13
+cat__community_water_suggestions_Build more water facilities ,1.9649397569622855e-14
+cat__community_water_challenges_Poor roads that prevent the water tank to come to our area,1.824046295400931e-14
+cat__community_water_suggestions_Planting of water pipes in all households with a major source to supply purified water. ,7.689603221535004e-15
+cat__additional_information_Not really ,4.34864718136638e-15
+"cat__community_water_challenges_Lack of water reservoir and treatment facilities or plans. 
+The government haven't connected the pipeline water which would have played vital roles in distrusting clean drinking water to the local population.",3.2803782408356887e-15
+cat__community_water_suggestions_Water purification ,3.1251381289954717e-15
+cat__community_water_suggestions_Poor road network ,2.7657625087140587e-15
+cat__community_water_challenges_Lack of water ,2.623544653800773e-15
+"cat__community_water_challenges_Expensive water prices, poor roads for safe water delivery.",2.401829488019422e-15
+"cat__shortage_reason_Limited daily supply, Long distance to water source",2.3010752460465892e-15
+cat__community_water_challenges_Lack of it,2.027820528898442e-15
+cat__school_water_challenges_No challenge,1.3799841688250824e-15
+cat__community_water_challenges_No connected pipelines.,1.2700663848856327e-15
+cat__community_water_suggestions_Provide chlorine to purify the water,1.260234493455109e-15
+"cat__school_water_challenges_Long queues, Water is expensive, Limited storage facilities",1.1247766672817945e-15
+"cat__community_water_challenges_Long distance, dirty water and expensive I'm terms of payment ",9.196065487405749e-16
+cat__community_water_suggestions_Fresh water body is running through the town . What is required is creating water infrastructure across the town to have pipe at ever building.,8.881710708659474e-16
+cat__community_water_suggestions_Pipe line inform of water supply system should be imitated ,6.792523472859406e-16
+"cat__school_water_challenges_Water is far from classrooms, Limited storage facilities",5.774807932547866e-16
+"cat__shortage_reason_High cost of water, Seasonal scarcity",5.695808853816204e-16
+cat__community_water_suggestions_Pipe system should be introduced such that the used of water tank should be dissolved. ,5.391053003746845e-16
+cat__community_water_suggestions_Water pipe reach every household ,4.077688140238477e-16
+cat__additional_information_Provision of Adequate water supplies ,3.6833655209936285e-16
+cat__main_drinking_water_Protected well,3.2876916342255135e-16
+cat__community_water_suggestions_By introduceing pipping ,3.2544355674467325e-16
+"cat__additional_information_Since, our country has portable source of water, I beseech the concerned authority to reach all areas with clean drinking and affordable water.",2.1861681046618243e-16
+cat__community_water_challenges_Water is provided by water tanks,2.0397646225734346e-16
+cat__community_water_challenges_Long distance transportation ,1.9806303109944735e-16
+cat__community_water_challenges_Lack of purified water ,1.5386270287961121e-16
+"cat__shortage_reason_list_['High cost of water', 'Long distance to water source']",6.526311356364143e-17
+"cat__community_water_challenges_Most water fit for drink for drinking in Juba comes from water refineries company, however purchasing them is not quite affordable considering a monthly expenses on water alone. While most people cant afford clean and potable water, only a select few have that capacity.",6.325141235640764e-17
+"cat__community_water_challenges_Poor quality of water,long distance from water source ",4.415824181758985e-17
+cat__community_water_challenges_Limited of water supply ,1.867476494584077e-17
+cat__additional_information_no,1.7328739202850867e-17
+cat__community_water_suggestions_I think government should see the solution of this problem ,1.588628204314707e-17
+"cat__additional_information_There is a need for water distribution companies to make water accessible anytime, anywhere ",1.515788413475454e-17
+cat__health_water_source_Borehole/well,4.085102848129292e-18
+cat__community_water_suggestions_Helps ,1.347367360834299e-18
+cat__community_water_suggestions_It's advisable to build underground water pipes which will be able to distributes water ?? from house to house ,5.446806442537003e-19
+cat__community_water_suggestions_Drill more boreholes,7.130268313689383e-21
+"cat__shortage_reason_High cost of water, Long distance to water source",2.5531915758831778e-23
+cat__community_water_challenges_The price of the water is high ,0.0
+num__additional_more_taps.1,0.0
+cat__age_group_55-59,0.0
+cat__community_water_suggestions_Building More water tapes ,0.0
+cat__additional_information_Expensive to buy water ,0.0
+"cat__school_water_challenges_Water is expensive, Water is far from classrooms, Poor water quality, Limited storage facilities",0.0
+cat__additional_information_What will the community gain from this survey!,0.0
+cat__community_water_challenges_Poor government water provision to families ,0.0
+num__additional_more_taps,0.0
+cat__additional_information_The water tank providers need to ensure they supply safe drinking water,0.0
+cat__community_water_challenges_Lack of adequate water supply and treatment ,0.0
+cat__community_water_challenges_No challenge,0.0
+"cat__additional_information_Presence of the pathogens like bacteria,viruses and parasites 
+",0.0
+num__more_taps,0.0
+cat__additional_information_Factory that can produce safe and clean water to our community ,0.0

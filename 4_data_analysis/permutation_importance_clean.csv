@@ -1,0 +1,103 @@
+feature,importance
+num__additional_more_taps,0.016182619390820753
+num__school_sleep_without_bathing_numeric,0.01285874443096593
+num__boreholes.1,0.00973676676378572
+num__additional_shortage,0.008586975136168662
+num__access,0.0076013701027676465
+cat__distance_to_water_source_Not far ,0.006372023354849832
+num__health_service_disruptions_numeric,0.006088063807696509
+cat__age_group_60+,0.004199803445549
+cat__primary_income_Hustling ,0.0037602754674400884
+num__additional_infrastructure,0.0026378682482809833
+num__health_hygiene_problems_numeric,0.002434917472922882
+num__additional_more_taps.1,0.0020288905124753896
+cat__distance_to_water_source_Its delivered ,0.001806502723250758
+num__household_shortage_frequency_num,0.0014544937821981518
+num__household_shortage_frequency,0.001237206153782533
+num__school_sleep_without_bathing_frequency_numeric,0.0012296545937720005
+num__health_shortage_frequency_numeric,0.001178611945810215
+cat__household_head_education_No formal education,0.001104629121884626
+num__additional_treatment.1,0.0010682181087684484
+num__infrastructure,0.0010035968718488774
+cat__distance_to_water_source_100-500m,0.0009697789608113183
+cat__role_in_household_Tenant,0.0009555075626212828
+num__more_taps,0.0008198277359658723
+cat__role_in_household_Sister ,0.000748343097507731
+cat__household_head_education_Tertiary school,0.0005901773562005053
+cat__role_in_household_Head of household,0.0004924087824433654
+num__equitable_access,0.000367555817857701
+cat__bathing_frequency_Not every day / irregular,0.0003398539020941893
+num__quality,0.00030469862306949926
+cat__main_drinking_water_Piped water,0.00025950831951107036
+num__additional_access,0.00025893452595306956
+cat__primary_income_Salaried job,0.00015224696351892053
+cat__gender_Female,0.00014855760431189413
+num__health_toilet_closures_numeric,0.00010882661986637565
+cat__primary_income_Business,0.00010217654219428774
+cat__litres_per_person_per_day_30 - 70,5.8462998346264786e-05
+cat__household_head_education_Primary school,5.788735933951461e-05
+num__school_hours_water_available_numeric,5.647936991537428e-05
+num__shortage.1,3.7796735118700296e-05
+num__additional_pipes,3.191300700811084e-05
+num__additional_education,2.2024114432728224e-05
+cat__primary_income_Casual labour,5.2745660996667e-07
+cat__bathing_frequency_Three or more times per day,0.0
+cat__main_drinking_water_Borehole,0.0
+cat__primary_income_Remittances,0.0
+cat__primary_income_Retired ,0.0
+cat__primary_income_Farming,0.0
+cat__primary_income_Private sector ,0.0
+cat__age_group_18-24,0.0
+num__additional_infrastructure.1,0.0
+cat__main_drinking_water_River/Lake,0.0
+cat__main_drinking_water_Protected well,0.0
+cat__litres_per_person_per_day_more than 120,0.0
+cat__bathing_frequency_Once per day,0.0
+cat__litres_per_person_per_day_101 -120,0.0
+cat__litres_per_person_per_day_25 - 30,0.0
+cat__distance_to_water_source_More than 1km,0.0
+cat__distance_to_water_source_We use water tank ,0.0
+cat__distance_to_water_source_Less than 100m,-1.7719229242918465e-05
+cat__gender_Male,-4.965505482517063e-05
+num__additional_treatment,-0.00010057724000058776
+cat__litres_per_person_per_day_71 - 100,-0.00014071087594840214
+num__additional_access.1,-0.00017033975012141765
+cat__primary_income_To have it today maybe tomorrow No,-0.00019539282336291652
+cat__age_group_55-59,-0.00021016406605436355
+cat__distance_to_water_source_3 km,-0.0002909088009183103
+cat__distance_to_water_source_About 2.5 km,-0.00030283346897908014
+cat__household_head_education_Secondary School,-0.0003350726524920633
+num__pipes.1,-0.0004995010369469143
+num__more_taps.1,-0.0007241374432239045
+num__additional_education.1,-0.0007266486202640365
+num__quality.1,-0.0008247050705183723
+cat__main_drinking_water_Water Tank,-0.0008402035690904475
+num__school_handwashing_frequency_numeric,-0.0008496484348476275
+num__access.1,-0.0009428862091608092
+cat__role_in_household_Child,-0.0009754192437005038
+num__treatment,-0.0009990269480124382
+cat__distance_to_water_source_500m-1km,-0.0011440022767147616
+num__health_handwashing_impact_numeric,-0.0011498915166039403
+num__pipes,-0.0011737441005919892
+num__health_water_reliability_numeric,-0.0012203598855089703
+num__education,-0.001334326852719503
+cat__age_group_25-34,-0.0014308215392939028
+num__shortage,-0.0014444501710232371
+num__additional_shortage.1,-0.0014513030148539663
+num__additional_boreholes,-0.00155466566984368
+num__additional_pipes.1,-0.0015999405308385617
+num__treatment.1,-0.001829230124000869
+num__additional_boreholes.1,-0.001840465391918622
+num__distance_to_water_source_numeric,-0.0018964307496527554
+num__infrastructure.1,-0.0024633569451489867
+num__boreholes,-0.0024814465372674068
+cat__role_in_household_Relative,-0.005631734478796213
+num__education.1,-0.006215583079695985
+num__litres_per_person_per_day_num,-0.006250186302446581
+cat__age_group_35-44,-0.007857518530285467
+num__household_shortage_seriousness,-0.010252223431922513
+num__household_size,-0.014428824049833899
+num__additional_quality,-0.016632207526689147
+cat__age_group_45-54,-0.01788664611864448
+num__additional_quality.1,-0.07727224157850311
+cat__role_in_household_Spouse,-0.07895409482523409

@@ -1,0 +1,33 @@
+feature,importance_mean,importance_std
+cat__health_shortage_coping_Store water in tanks/containers,0.013435374149659863,0.03882210173756392
+cat__community_water_challenges_Poor infrastructures especially during the rainy season,0.006972789115646257,0.02616451138071506
+cat__school_water_challenges_Poor water quality,0.004591836734693869,0.028356516799163786
+"cat__community_water_challenges_The main challenges are the high cost of water and unreliable supply. Sometimes water trucks delay or bring water that is not clean. Many households depend on vendors, and not everyone can afford to buy enough water every week.
+",0.0006802721088435308,0.006141316355533273
+num__school_monthly_water_cost,0.0,0.0
+num__school_monthly_water_cost_ssp,0.0,0.0
+cat__school_affiliation_Yes,0.0,0.0
+cat__school_role_Not Applicable,0.0,0.0
+cat__school_type_Not Applicable,0.0,0.0
+cat__school_type_Secondary,0.0,0.0
+num__school_monthly_water_cost_usd,0.0,0.0
+num__additional_shortage.1,0.0,0.0
+num__additional_access.1,0.0,0.0
+cat__school_affiliation_No,0.0,0.0
+cat__school_staff_population_Not Applicable,0.0,0.0
+cat__school_staff_population_Less than 50,0.0,0.0
+cat__school_student_population_Not Applicable,0.0,0.0
+cat__school_ownership_Not Applicable,0.0,0.0
+cat__school_hours_water_available_Not Applicable,0.0,0.0
+cat__additional_information_Fourteen years of independence is an ample time to have connected each and every household to clean potable water,0.0,0.0
+cat__community_water_suggestions_Provide more clean and quality water sources,0.0,0.0
+cat__additional_information_Construct pipe water.,0.0,0.0
+cat__shortage_reason_list_['Limited daily supply'],0.0,0.0
+cat__health_sanitation_difficulty_numeric_0,0.0,0.0
+cat__additional_information_Expensive to buy water ,0.0,0.0
+"cat__school_water_challenges_Water is expensive, Water is far from classrooms, Poor water quality, Limited storage facilities",-0.0008503401360544319,0.018587276136902302
+cat__community_water_challenges_High cost of clean water ,-0.0008503401360544319,0.018587276136902302
+"cat__community_water_challenges_Longtime distances to water points.
+Poor storage facilities ",-0.0008503401360544319,0.018587276136902302
+"cat__community_water_suggestions_Government has to invest in clean drinking water by connecting pipes under the ground to supply houses at least in the City, Juba.",-0.0008503401360544319,0.018587276136902302
+cat__community_water_suggestions_Government should take the water supply into her hand not be left in the hand of the business personnels who are largely interested profits not public health. ,-0.006972789115646272,0.013006591023808767
